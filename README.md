@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 <br />
 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/6ky1MIxfJRUDHwnXJmdD1M)
+<br/>
+---
+
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=intro.intro)
