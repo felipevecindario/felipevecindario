@@ -1,4 +1,6 @@
-### Hi there 👋
+# 
+   
+## Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Soy [Felipe Alzate!](https://www.linkedin.com/in/felipealz/) 
 
 <!--
 **felipevecindario/felipevecindario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
